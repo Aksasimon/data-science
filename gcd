@@ -7,7 +7,7 @@ num2 = int(input("enter the second number:"))
 result =gcd(num1,num2)
 print(f"the gcd of {num1} and {num2} is {result}")
 
-output
+----------output------------
 enter the first number:25
 enter the second number:175
 the gcd of 25 and 175 is 25
